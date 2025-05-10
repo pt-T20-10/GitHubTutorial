@@ -8,5 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button>Hello</Button>
+        <TextBlock Text="Sai Gon Khong nguu !!!"></TextBlock>
+        <TextBlock Text="Sai Gon Khong nguu !!!">
+        </TextBlock>
     </Grid>
 </Window>
